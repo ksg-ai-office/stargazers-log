@@ -1,0 +1,23 @@
+[
+  {
+    "repository": "github/docs",
+    "description": "The open-source repository for GitHub's documentation.",
+    "url": "https://github.com/github/docs",
+    "language": "JavaScript",
+    "starredAt": "2026-09-18"
+  },
+  {
+    "repository": "microsoft/vscode",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern applications.",
+    "url": "https://github.com/microsoft/vscode",
+    "language": "TypeScript",
+    "starredAt": "2026-09-12"
+  },
+  {
+    "repository": "vercel/next.js",
+    "description": "The React framework for the web.",
+    "url": "https://github.com/vercel/next.js",
+    "language": "JavaScript",
+    "starredAt": "2026-09-05"
+  }
+]
